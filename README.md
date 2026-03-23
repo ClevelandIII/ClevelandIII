@@ -5,7 +5,7 @@ My name is Cleveland, and I'm a student at ASU! I'm majoring in Graphic Informat
 # My skills
 
 ![JavaScript](https://img.shields.io/badge/logo-javascript-yellow?logo=javascript)
-![Java]
+![Java](https://img.shields.io/badge/logo-java-red?logo=java)
 
 
 
