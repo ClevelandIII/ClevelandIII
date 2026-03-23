@@ -6,7 +6,10 @@ My name is Cleveland, and I'm a student at ASU! I'm majoring in Graphic Informat
 
 ![JavaScript](https://img.shields.io/badge/logo-javascript-yellow?logo=javascript)
 ![Java](https://img.shields.io/badge/logo-java-red?logo=java)
-
+![React](https://img.shields.io/badge/logo-react-61DAFB?logo=react)
+![GameMaker](https://img.shields.io/badge/logo-gamemaker-000000?logo=gamemaker)
+![Sass](https://img.shields.io/badge/logo-sass-CC6699?logo=sass)
+![jQuery](https://img.shields.io/badge/logo-jquery-0769AD?logo=jquery)
 
 
 <!--
