@@ -2,16 +2,29 @@
 
 My name is Cleveland, and I'm a student at ASU! I'm majoring in Graphic Information Technology, and after graduation, I want to find a position or internship in Front End or Full Stack web developemnt. Outside of code I love to 3D model and 3D print, draw, and make my own stories. I have a dog named Coconut, and she's the same dog that you see on my profile!
 
-# My skills
+### My skills
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-yellow?logo=javascript)
-![Java](https://img.shields.io/badge/logo-java-red?logo=java)
-![React](https://img.shields.io/badge/logo-react-61DAFB?logo=react)
-![GameMaker](https://img.shields.io/badge/logo-gamemaker-000000?logo=gamemaker)
-![Sass](https://img.shields.io/badge/logo-sass-CC6699?logo=sass)
-![jQuery](https://img.shields.io/badge/logo-jquery-0769AD?logo=jquery)
+![JavaScript](https://img.shields.io/badge/-javascript-000000?logo=javascript)
+![Java](https://img.shields.io/badge/-java-000000?logo=java)
+![React](https://img.shields.io/badge/-react-000000?logo=react)
+![GameMaker](https://img.shields.io/badge/-gamemaker-000000?logo=gamemaker)
+![Sass](https://img.shields.io/badge/-sass-000000?logo=sass)
+![jQuery](https://img.shields.io/badge/-jquery-000000?logo=jquery)
 
 
+### Non-Code skills
+![Blender](https://img.shields.io/badge/-blender-000000?logo=blender)
+![Maya](https://img.shields.io/badge/-autodeskmaya-000000?logo=autodeskmaya)
+![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-000000?logo=illustrator)
+![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-000000?logo=photoshop)
+
+### Other Links
+
+Outside of GitHub, you can find me on...
+
+[![](https://img.shields.io/badge/-x-000000?logo=x)](https://x.com/brainofcthulhu0)
+[![](https://img.shields.io/badge/-sketchfab-000000?logo=sketchfab)](https://sketchfab.com/Brainofcthulhu)
+[![](https://img.shields.io/badge/-gdevelop-000000?logo=gdevelop)](https://gd.games/brainofcthulhu)
 <!--
 **ClevelandIII/ClevelandIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
