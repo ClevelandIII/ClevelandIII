@@ -29,4 +29,5 @@ Outside of GitHub, you can find me on...
 [![](https://img.shields.io/badge/-x-000000?logo=x)](https://x.com/brainofcthulhu0)
 [![](https://img.shields.io/badge/-sketchfab-000000?logo=sketchfab)](https://sketchfab.com/Brainofcthulhu)
 [![](https://img.shields.io/badge/-gdevelop-000000?logo=gdevelop)](https://gd.games/brainofcthulhu)
+[![](https://img.shields.io/badge/-behance-000000?logo=behance)](https://www.behance.net/clevelawilliam3))
 [![](https://img.shields.io/badge/-placeholderForPortfolioWebsite-000000?logo=placeholderForPortfolioWebsite)](https://gd.games/brainofcthulhu)
